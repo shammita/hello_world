@@ -1,0 +1,85 @@
+02/06/2022
+
+Classroom Code- d3jis3x
+
+
+Web based:
+
+Applications that can be run in any browser then it is called Web Based Application.
+
+
+Steps:
+
+1. Install Visual Studio
+2. Xampp DOwnload
+3. Git install
+4. Some required plug-ins
+
+
+Git:
+
+	Co-Ordinator
+	Collaborative Software
+	
+Github:
+
+	Cloudbase Website
+
+How Git Works:
+
+	=>
+	git add
+	git commit
+	git push
+
+	<=
+	git fetch
+	git checkout
+	git merge
+	
+Git Command:
+
+	1. git init
+	2. git add
+	3. git commit
+	4. git status
+	5. git push
+	6. git clone
+	7. git checkout
+	8. git pull
+	9. git merge
+	10. git revert
+	11. git reset
+	12. git log
+
+
+
+
+
+
+
+At first :
+
+	1. Create a folder for the Project
+	2. Create html File
+	3. Go to the project directory
+	4. Then "Right Click" and select 'git bash here'
+	5. In the command of MinGW Command 'git init'
+	6. Create a repository in Github
+	7. See in the minGW 'git status'
+	8. 'git add .'
+	9. 'git status'
+	10. 'git commit -m "Message"'
+	11. git config --global user.email "email address"
+	12. git config --global user.name "user name of github"
+	13. 'git commit -m "Message"'
+	14. git log --oneline
+	15. git remote add origin https://github.com/sazidshariarbaf/hello_world.git
+	16. git push origin master
+
+Publish In github
+
+	1. settings
+	2. Pages-> choose master
+	3. 
+	
